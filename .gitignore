@@ -1,0 +1,7 @@
+public class Convert {
+  public static void main(String[] args) {
+    int number = 1234;
+    String s1 = Integer.toString(number);
+    System.out.println("Interger varialbe "+number+" converted to string ="+s1);
+  }
+}
